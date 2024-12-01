@@ -1,1 +1,1 @@
-# Tic Tac Tiw (Saylani)
+# Tic Tac Toe (Saylani)
